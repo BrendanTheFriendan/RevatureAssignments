@@ -34,7 +34,7 @@ public class Food {
 //                "-daysUntilExpiration: an integer which indicates how many days remain until the particular food item becomes expired\n\n" +
 //                "Additionally, the Food class provides the following methods:\n" +
 //                "-describeFoodItem(): Prints the current values for each attribute of the food item\n" +
-//                "-expire(): reduces the number of days until expiration of the food item, a non-frozen food will have a reduction of 2, while frozen foods will only be reduced by 1\n" +
+//                "-expire(): Reduces the number of days until expiration of the food item, a non-frozen food will have a reduction of 2, while frozen foods will only be reduced by 1\n" +
 //                " ");
 //    }
 
